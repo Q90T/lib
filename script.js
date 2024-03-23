@@ -76,9 +76,4 @@ menuButton.addEventListener("click", function() {
   }
 });
 
-const footer = document.createElement('footer');
-footer.innerHTML = '<div class="footer-content">hello <div/>';
-footer.style.backgroundColor = 'lightgray';
-footer.style.padding = '0px';
-footer.style.textAlign = 'center';
-document.body.appendChild(footer);
+

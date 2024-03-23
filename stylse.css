@@ -99,7 +99,6 @@ body {
   transition: background-color 0.5s ease;
   
 
-
 }
 
 /* Light mode class */
@@ -195,7 +194,7 @@ bnn{border: 1.5px solid white ;
     top: 0px; /* تحديد موقع شريط القائمة في أعلى الصفحة */
     z-index: 9999; /* تحديد الترتيب الأمامي لشريط القائمة */
   }
-  body .conteint {
+  body .content {
 
    position: absolute;
     top: 50px;
@@ -435,12 +434,7 @@ background-color: var(--surface2);
   transform: translate(0, -11px) rotate(45deg);
 }
  
-/*footer*/
-.footer-content{
-  width: 100%;
-  height: 300px;
-  background: var(--surface2);
-}
+	
 	
 	
 	
